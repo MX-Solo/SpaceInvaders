@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/level/level1.lvl</file>
+        <file>res/level/level2.lvl</file>
+        <file>res/sprite/bg.png</file>
+        <file>res/sprite/enemies.png</file>
+        <file>res/sprite/enemy_projectile.png</file>
+        <file>res/sprite/explosion.png</file>
+        <file>res/sprite/projectile.png</file>
+        <file>res/sprite/spaceship_spritesheet.png</file>
+        <file>res/font/Minecraft.ttf</file>
+        <file>res/level/level3.lvl</file>
+        <file>res/sfx/explosion.wav</file>
+        <file>res/sfx/invaderkilled.wav</file>
+        <file>res/sfx/shoot.wav</file>
+        <file>res/level/level4.lvl</file>
+        <file>res/level/level5.lvl</file>
+        <file>res/level/level6.lvl</file>
+    </qresource>
+</RCC>
